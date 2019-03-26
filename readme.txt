@@ -5,3 +5,4 @@ Git tracks cahnges of files.
 Creating a new brach is quick.
 Creating a new branch is quick and simple.
 Merge branch with --no--ff.
+Bug to fix.
